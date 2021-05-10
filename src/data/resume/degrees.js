@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Delft University of Technology',
+    degree: 'MSc Aerospace Engineering, Profile Control and Simulation',
+    link: 'https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/master-tracks/control-operations/programme/profile-cs',
+    year: [2020, '-', 2022],
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Delft University of Technology',
+    degree: 'BSc Aerospace Engineering',
+    link: 'https://www.tudelft.nl/en/education/programmes/bachelors/ae/bsc-aerospace-engineering',
+    year: [2016, '-', 2020],
   },
 ];
 
