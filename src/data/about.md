@@ -32,3 +32,4 @@ Currently looking for an internship that fits my passions and ambitions. My days
 
 - Enabling a brighter sustainable future.
 - Making time to do more personal projects.
+- Finding a great internship that fits me

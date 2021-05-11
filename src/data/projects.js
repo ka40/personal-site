@@ -10,7 +10,7 @@ const data = [
       'In a group of 3 students we reproduced a deep learning research paper '
       + 'that applied attention mechanisms to a recurrent neural network, '
       + 'while having a parallel feed forward neural network at the same time.'
-      + 'It was a challenging but fun project.',
+      + ' It was a challenging but fun project.',
   },
   {
     title: 'Bachelor Final Project',
@@ -21,8 +21,8 @@ const data = [
     desc:
       'Designed a sustainable aircraft. '
       + 'Hydrogen-powered, blended wing body, 236 passengers and 4500km range.'
-      + 'Airbus released a concept several months later that is almost identical'
-      + 'click the image to see their design.',
+      + 'Airbus released a concept several months later that is almost identical.'
+      + ' Click the image to see their design.',
   },
   // {
   //   title: 'Space Potato',
